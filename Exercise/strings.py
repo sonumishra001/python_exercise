@@ -2,17 +2,18 @@ name='sonu'
 age=22
 
 #concatenate
-# print('my name is ' + name + ' and i am age' + str(age)) 
+print('my name is ' + name + ' and i am age' + str(age)) 
 
 # #string formatting
 
 # #arguments by position
 
-# print('my name is {name} and i am {age}'.format(name=name, age=age))
-#print(f'my name is {name} and i am {age}')
+print('my name is {name} and i am {bayas}'.format(name=name, bayas=age))
+print(f'my name is {name} and i am {age}')
+
 #String Methods
 
-s='helloWORLD'
+s='hello WORLD'
 #Capitalize
 print(s.capitalize())
 

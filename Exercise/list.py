@@ -44,9 +44,11 @@ print(fruits)
 
 #change value
 fruits=['apple', 'oranges', 'grapes', 'banana']
-fruits[0] = 'black berry'
+# fruits[0] = 'black berry'
 fruits.insert(0, 'papaya')
-fruits.pop(1)
-
+# fruits.pop(1)
+fruits.append('mango')
+fruits.pop(5)
 print(fruits)
+print(fruits[2])
 print(len(fruits))

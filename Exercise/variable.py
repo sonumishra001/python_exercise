@@ -1,5 +1,5 @@
 name='sonu'
-age=23
+age=22
 x, y, name, is_cool = (1, 2.5, 'edith', True)
 # print(x, y, name, is_cool, age)
 
